@@ -1,0 +1,12 @@
+[submodule "dakeBook"]
+	path = dakeBook
+	url = https://github.com/takeern/dakeBook.git
+[submodule "servicesController"]
+	path = servicesController
+	url = https://github.com/takeern/serviceController.git
+[submodule "spiderServices"]
+	path = spiderServices
+	url = https://github.com/takeern/spiderService.git
+[submodule "spider"]
+	path = spider
+	url = https://github.com/takeern/ixSpider.git
